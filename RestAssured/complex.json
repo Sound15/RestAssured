@@ -1,0 +1,32 @@
+{
+  "category" : "Super Hero Movies And TV Series",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "movies" : [ {
+    "title" : "Batman:The Dark Knight",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Hustice League:Synder Cut",
+    "year" : 2021,
+    "cast" : [ "Henry Cavill", "Gal Gadot" ]
+  }, {
+    "title" : "Avengers:Age of Ultron",
+    "year" : 2012,
+    "cast" : [ "Robert Downey", "Chris Evans" ]
+  } ],
+  "tvseries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "Gotham",
+    "year" : 2014
+  }, {
+    "title" : "Super Girl",
+    "year" : 2015
+  } ],
+  "otherdetails" : {
+    "country" : "Only USA",
+    "language" : "English"
+  }
+}
